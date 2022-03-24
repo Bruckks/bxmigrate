@@ -14,13 +14,21 @@
 
 Устанавливается с помощью [Composer](https://getcomposer.org/doc/00-intro.md).
 
-Выполните команду в папке вашего проекта:
-
+Добавьте в ваш composer.json в раздел require:
 ```
-composer require evk/bxmigrate:~1.0.0
+"require": {
+    "Bruckks/bxmigrate": "dev-master"
+}
 ```
-
-
+И в раздел repositories:
+```
+"repositories": [
+    {
+        "type": "git",
+        "url": "https://github.com/Bruckks/bxmigrate"
+    }
+]
+```
 
 Описание
 --------

@@ -1,6 +1,6 @@
 {
     "name": "evk/bxmigrate",
-    "description": "Миграции для битрикс",
+    "description": "Migrations for bitrix",
     "type": "library",
     "keywords": ["bitrix", "migrations", "битрикс", "миграции"],
     "license": "MIT",
@@ -21,7 +21,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/e-krivonosov/bxmigrate"
+            "url": "https://github.com/Bruckks/bxmigrate"
         }
     ]
 }

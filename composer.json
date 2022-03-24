@@ -2,7 +2,7 @@
     "name": "evk/bxmigrate",
     "description": "Migrations for bitrix",
     "type": "library",
-    "keywords": ["bitrix", "migrations", "битрикс", "миграции"],
+    "keywords": ["bitrix", "migrations"],
     "license": "MIT",
     "require": {
         "php": ">=5.4",
